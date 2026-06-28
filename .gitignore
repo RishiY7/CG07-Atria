@@ -1,0 +1,5 @@
+config.properties
+.metadata/
+.settings/
+bin/
+*.class
